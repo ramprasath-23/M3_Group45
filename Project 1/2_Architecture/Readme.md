@@ -4,6 +4,7 @@
 ![behav-highlevel flow](https://user-images.githubusercontent.com/99134492/157885602-8ca8eda6-f741-4803-9dbb-6f2a334cf509.png)
 ## Low level diagram 
 
+![behave_lowlevel_flow](https://user-images.githubusercontent.com/99134492/157887799-9dbe8509-7e6a-4a9b-bc7b-62baa47601f7.png)
 
 
 # 2.2 Structural Diagram
