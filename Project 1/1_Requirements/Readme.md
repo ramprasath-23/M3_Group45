@@ -13,19 +13,27 @@ Table of contents:
  <!--te--> 
   
 ### 1.Description:
+
+![maxresdefault](https://user-images.githubusercontent.com/70833253/157854991-c6e073c1-658d-4d97-b77d-bd36b9dbdbbc.jpg)
+
+
 Remote keyless entry(RKE) is a system designed to remotely lock or unlock access to automobiles.It operates by transmitting radio waves on a particular frequency.The main components required are the transmitter and the reciever.RKE system helps the vehicle from theft.It is a very usefull system nowadays.
 
 ### 2.Requirements:
 #### 2.1) High Level Requirements:
 | ID | Description |
 | -- | --- |
-| HLR01 | Able to lock and unlock the door |
-| HLR02 | Able to on or off the engine |
+| HLR-01 | UnLocking the Car -It shall turn ON all the Led’s on at the same time. |
+| HLR-02 | Locking the Car -It shall turn OFF all the Led’s on at the same time. |
+| HLR-03 | Alarm activation/deactivation -It shall turn On All Led’s in clockwise manner. |
+| HLR-04 | Locking the Car -It shall turn OFF all the Led’s on at the same time. |
 #### 2.2) Low Level Requirements:
 | ID | Description |
 | --- | --- |
-| LLR01 | On or off the multimedia inside the automobile |
-| LLR02 | Emergency alarm button |
+| LLR01 | For single press- All lights ON |
+| LLR02 | For double press- All lights OFF |
+| LLR03 | For Pressing three times- All led ON in clockwise manner |
+| LLR04 | For Pressing Four times- All led ON in anti-clockwise manner |
 ### 3.SWOT Analysis:
 | SWOT | Description |
 | --- | --- |
@@ -39,5 +47,6 @@ Remote keyless entry(RKE) is a system designed to remotely lock or unlock access
 | What | Remote keyless entry |
 | When | At the time of starting or ending the journey |
 | Where | In automobiles |
+| Who | For all the people who want to be theft free|
 | Why | For easy use and to prvent theft |
 | How | By pressing the buttons |
