@@ -1,4 +1,5 @@
-# Testplan AND Output
+# **TESTPLAN AND OUTPUT
+
 
 ## HIGH LEVEL TEST PLAN
 
@@ -17,3 +18,4 @@
 |LL02|All LEDs Should get turn OFF together when Car is unlocked|switch pressed 2 time|All Leds are OFF|Passing|
 |LL03|Alarm Activation|switch pressed 3 times|LEDs turned ON one by one in clockwise direction|Passing|
 |LL04|Alarm deactivation|switch pressed 4 time|LEDs turned OFF one by one in clockwise direction|Passing|
+
