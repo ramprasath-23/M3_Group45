@@ -4,13 +4,15 @@ Table of contents:
 ==================
 
 <!--ts-->
-|Sl no|Title|
-|1|Description|
-   * 2.Requirements
-      * 2.1)High Level Requirements
-      * 2.2)Low Level Requirements
-   * 3.SWOT Analysis
-   * 4.5W's and 1'H
+| Sl No | Content |
+| --- | --- |
+| 1 | Description |
+| 2 | For double press- All lights OFF |
+    | 2.1 High Level Requirements|
+    | 2.2 Low Level Requirements |                                 
+| 3 | SWOT Analysis |
+| 4 | 5W's and 1'H |
+
  <!--te--> 
   
 ### 1.Description:
