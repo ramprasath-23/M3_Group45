@@ -6,10 +6,12 @@
 # 2.2 Behavioural Diagrams
 
 ## High Level Diagram
-![behav-highlevel flow](https://user-images.githubusercontent.com/99134492/157885602-8ca8eda6-f741-4803-9dbb-6f2a334cf509.png)
-## Low level diagram 
+![bicom_behav-highlevel flow](https://user-images.githubusercontent.com/99134492/157936767-f85e9dc3-e829-44d1-8c8b-b4bc2db24f51.png)
 
-![behave_lowlevel_flow](https://user-images.githubusercontent.com/99134492/157887799-9dbe8509-7e6a-4a9b-bc7b-62baa47601f7.png)
+
+## Low level diagram 
+![bicom_lowlwvwl](https://user-images.githubusercontent.com/99134492/157936789-2e18ca80-452e-4e7a-a933-f94683bd0979.png)
+
 
 
 # 2.3 Structural Diagram
