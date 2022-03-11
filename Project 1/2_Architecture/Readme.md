@@ -1,9 +1,9 @@
 # **2 ARCHITECTURE**
 # 2.1 Block Diagram
+![block diagram](https://user-images.githubusercontent.com/99134492/157933472-1f5a5347-6f7f-481d-8cfb-eb0c73f07d63.png)
 
 
 # 2.2 Behavioural Diagrams
-![block diagram](https://user-images.githubusercontent.com/99134492/157933472-1f5a5347-6f7f-481d-8cfb-eb0c73f07d63.png)
 
 ## High Level Diagram
 ![behav-highlevel flow](https://user-images.githubusercontent.com/99134492/157885602-8ca8eda6-f741-4803-9dbb-6f2a334cf509.png)
