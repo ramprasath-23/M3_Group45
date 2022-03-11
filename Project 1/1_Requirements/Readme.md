@@ -41,7 +41,10 @@ Remote keyless entry(RKE) is a system designed to remotely lock or unlock access
 | Weakness | Remote may not work at sometimes |
 | Opportunity | Can be used in all the automobiles |
 | Threat | If the remote is misses we cant open the car |
-### 4.5W's and 1H:
+### 4. 5W's and 1H:
+
+![file](https://user-images.githubusercontent.com/70833253/157871717-71d4f9a1-62e8-4200-a168-24fe3df3af51.jpg)
+
 | W's and H | Description |
 | --- | --- |
 | What | Remote keyless entry |
