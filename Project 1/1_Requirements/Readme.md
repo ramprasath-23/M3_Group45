@@ -4,14 +4,13 @@ Table of contents:
 ==================
 
 <!--ts-->
-   * [Installation](#installation)
-   * [1.Description]
-   * [2.Requirements]
-      * [2.1)High Level Requirements]
-      * [2.2)Low Level Requirements]
-   * [3.SWOT Analysis]
-   * [4.5W's and 1'H]
-  
+   * 1.Description
+   * 2.Requirements
+      * 2.1)High Level Requirements
+      * 2.2)Low Level Requirements
+   * 3.SWOT Analysis
+   * 4.5W's and 1'H
+ <!--te--> 
   
 ### 1.Description:
 Remote keyless entry(RKE) is a system designed to remotely lock or unlock access to automobiles.It operates by transmitting radio waves on a particular frequency.The main components required are the transmitter and the reciever.RKE system helps the vehicle from theft.It is a very usefull system nowadays.
