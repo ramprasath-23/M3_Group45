@@ -1,5 +1,7 @@
 # **M3_Group45**
 
+# Badges
+
 # Submitted By:
 
 | Contents | DONE By |
@@ -24,10 +26,10 @@
 |---- |----|
 |Project -> 1_Requirements |Introduction, Swot Analysis, 5w's and 1H, Low and High Level Requirements |
 |Project -> 2_Architecture |Block Diagram, Flow Chart, Structural and Behavioural Diagram |
-|Project -> 3_Implementation | |
-|Project -> 4_Test Plan |High and Low level Test Plan , Tested Output Images |
+|Project -> 3_Implementation |Code and Docxy File  |
+|Project -> 4_Test Plan and Output |High and Low level Test Plan , Tested Output Images |
 |Project -> 5_Images And Videos |All tested output and circuit diagram , Demonstration Videos |
-|Project -> 6_Report |Documentation in readme and docx file |
+|Project -> 6_Report |Documentation in readme file |
 # Bicom System
 
 
@@ -36,9 +38,9 @@
 |---- |----|
 |Project -> 1_Requirements |Introduction, Swot Analysis, 4w's and 1H, Low and High Level Requirements |
 |Project -> 2_Architecture |Block Diagram, Flow Chart, Structural and Behavioural Diagram |
-|Project -> 3_Implementation | |
-|Project -> 4_Test Plan |High and Low level Test Plan , Tested Output Images |
+|Project -> 3_Implementation |Code and Docxy File |
+|Project -> 4_Test Plan and Output |High and Low level Test Plan , Tested Output Images |
 |Project -> 5_Images And Videos |All tested output and circuit diagram , Demonstration Videos |
-|Project -> 6_Report |Documentation in readme and docx file |
+|Project -> 6_Report |Documentation in readme file |
 
 
