@@ -1,6 +1,9 @@
 # **M3_Group45**
 
 # Badges
+## Codiga
+![Code grade](https://api.codiga.io/project/31034/score/svg)
+![Code grade](https://api.codiga.io/project/31034/status/svg)
 
 ## Badge of Codacy:
 ![Codacy Badge](https://app.codacy.com/project/badge/Grade/e371eac18ddc4a7ab004a9e424f30fa5)
