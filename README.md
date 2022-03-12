@@ -7,9 +7,9 @@
 | Contents | DONE By |
 |---|---|
 | 1Remote_Keyless_Entry CODE in 3_Implementation | By Ramprasath,Sai Charan,Fazalulrehman with the help of Priya |
-| 1Remote_Keyless_Entry Git Repo | Ramprasath|
+| 1Remote_Keyless_Entry Git Repo | Ramprasath,Saicharan,Fazalulrehman,Priya|
 | 2BiCom_System ONLY CODE in 3_Implementation | By Ramprasath,Sai Charan,Fazalulrehman with the help of  Priya |
-| 2BiCom_System Git Repo | Ramprasath |
+| 2BiCom_System Git Repo | Ramprasath,Saicharan,Fazalulrehman,Priya |
 
 # Project Name
 
