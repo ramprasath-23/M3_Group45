@@ -1,6 +1,10 @@
 # **M3_Group45**
 
 # Badges
+## Badge of Codiga:
+| Codiga | Codiga | 
+| --- | --- | 
+| ![quality score](https://api.codiga.io/project/31914/score/svg) | ![project quality](https://api.codiga.io/project/31914/status/svg) |
 
 # Submitted By:
 
